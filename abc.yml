@@ -1,5 +1,3 @@
-
-[12:00 PM] Nitesh Singh Mehra
 ---
  - name: Docker Installation and Docker image run
    hosts: all
