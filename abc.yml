@@ -40,7 +40,7 @@
           dest: /home/docker/dockerfile
       
       - name: run docker file
-        shell: docker build -f Dockerfile /home/docker -t image:latest
+        shell: docker build -f dockerfile /home/docker -t image:latest
  
 
 
